@@ -17,10 +17,25 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/proarif" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhtar016" height="20" width="20" />
+  <a href="https://twitter.com/proarifBD" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="proarifBD" height="20" width="20" />
+  </a>
+  <a href="https://www.facebook.com/proarif0" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="proarif0" height="20" width="20" />
   </a>
   <a href="https://linkedin.com/in/proarif" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhtarnn" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="proarif" height="20" width="20" />
+  </a>
+  <a href="https://gitlab.com/arifpro" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arifpro" height="20" width="20" />
+  </a>
+  <a href="https://medium.com/@proarif" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="proarif" height="20" width="20" />
+  </a>
+  <a href="mailto:arif.swfu@outlook.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="20" width="20" />
+  </a>
+  <a href="https://dev.to/proarif" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="proarif" height="20" width="20" />
   </a>
 </p>
