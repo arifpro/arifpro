@@ -16,6 +16,10 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p>
 
+- ⚡ Fun fact: ...
+-->
+[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://twitter.com/proarifBD" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="proarifBD" height="20" width="20" />
