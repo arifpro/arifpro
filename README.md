@@ -16,8 +16,7 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p>
 
-- ⚡ Fun fact: ...
--->
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
