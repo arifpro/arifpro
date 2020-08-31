@@ -23,33 +23,33 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][pizzaseries]
-[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />][pizzaseries]
-<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />][webdevplaylist] -->
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][webdevplaylist]
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />][webdevplaylist] -->
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][https://proarif.com]
+[<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />][https://proarif.com]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][https://proarif.com]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][https://proarif.com]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />][https://proarif.com]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />][https://proarif.com]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][https://proarif.com]
+[<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][https://proarif.com]
+[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />][https://proarif.com]
+<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />][https://proarif.com] -->
+<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />][https://proarif.com] -->
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][https://proarif.com]
+<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />][https://proarif.com] -->
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />][https://proarif.com]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][https://proarif.com]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][https://proarif.com]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][https://proarif.com]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][https://proarif.com]
+[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][https://proarif.com]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />][https://proarif.com]
 
 <br />
 <br />
 
 ---
 
-### 📺 Latest Best Repositories
+### Latest Best Repositories
 - [Node-Express Jwt-Auth](https://github.com/arifpro/node-express-jwt-auth)
 - [React Alan_AI News Application](https://github.com/arifpro/react-alan_ai-news_application)
 - [React Facebook Clone](https://github.com/arifpro/react-facebook-clone)
