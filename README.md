@@ -1,44 +1,60 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
-<h3 align="center">A curious and passionate front end developer</h3>
+<h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [https://proarif.com](https://proarif.com)
-
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
-
+- 🌱 I’m currently learning ReactJs, NodeJs
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Web Development with ReactJs and NodeJs
+- ⚡ Fun fact: I love coding and watch movies
 - 📫 Reach me at **arif.swfu@outlook.com**
 
-<p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-</p>
+### Connect with me:
+[<img align="left" alt="proarif.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://proarif.com]
+[<img align="left" alt="proarifBD | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/proarifBD]
+[<img align="left" alt="proarif0 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/proarif0]
+[<img align="left" alt="proarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/proarif]
+[<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][https://github.com/arifpro]
+[<img align="left" alt="arifpro | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][https://gitlab.com/arifpro]
+[<img align="left" alt="proarif | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@proarif]
+[<img align="left" alt="proarif | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][https://dev.to/proarif]
+[<img align="left" alt="proarif | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mailto:arif.swfu@outlook.com]
 
+<br />
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro)](https://github.com/arifpro)
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][pizzaseries]
+[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />][pizzaseries]
+<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />][webdevplaylist] -->
+<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />][webdevplaylist] -->
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][webdevplaylist]
+<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />][webdevplaylist] -->
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />][webdevplaylist]
 
-<p align="center">
-  <a href="https://twitter.com/proarifBD" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="proarifBD" height="20" width="20" />
-  </a>
-  <a href="https://www.facebook.com/proarif0" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="proarif0" height="20" width="20" />
-  </a>
-  <a href="https://linkedin.com/in/proarif" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="proarif" height="20" width="20" />
-  </a>
-  <a href="https://gitlab.com/arifpro" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arifpro" height="20" width="20" />
-  </a>
-  <a href="https://medium.com/@proarif" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="proarif" height="20" width="20" />
-  </a>
-  <a href="mailto:arif.swfu@outlook.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="20" width="20" />
-  </a>
-  <a href="https://dev.to/proarif" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="proarif" height="20" width="20" />
-  </a>
-</p>
+<br />
+<br />
+
+---
+
+### 📺 Latest Best Repositories
+- [Node-Express Jwt-Auth](https://github.com/arifpro/node-express-jwt-auth)
+- [React Alan_AI News Application](https://github.com/arifpro/react-alan_ai-news_application)
+- [React Facebook Clone](https://github.com/arifpro/react-facebook-clone)
+- [Red Onion Restaurant](https://github.com/arifpro/restaurant-red-onion)
+- [Ema John E-commerce Site](https://github.com/arifpro/ema-john-simple)
+- [React Todo List Simple](https://github.com/arifpro/react-todo-list-simple)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&show_icons=true&hide_border=true)](https://github.com/arifpro)
