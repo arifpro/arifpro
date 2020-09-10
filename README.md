@@ -62,5 +62,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/ansh-099)
 
-#### Visitor Count
-![image](https://profile-counter.glitch.me/arifpro/count.svg)
+---
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  [<img align="center" alt="proarif.com" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />](https://proarif.com)
+</p>
