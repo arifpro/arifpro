@@ -3,6 +3,7 @@
 
 - 👨‍💻 My portfolio website [https://proarif.com](https://proarif.com)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
+- 💻 I'm a undergraduate majoring in Computer Science From SWFU, China
 - 🌱 I’m currently learning ReactJs, NodeJs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Web Development with ReactJs and NodeJs
@@ -57,4 +58,9 @@
 - [Ema John E-commerce Site](https://github.com/arifpro/ema-john-simple)
 - [React Todo List Simple](https://github.com/arifpro/react-todo-list-simple)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&show_icons=true&hide_border=true)](https://github.com/arifpro)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true)](https://github.com/arifpro)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/ansh-099)
+
+#### Visitor Count
+![image](https://profile-counter.glitch.me/arifpro/count.svg)
