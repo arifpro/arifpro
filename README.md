@@ -65,6 +65,6 @@
 ---
 
 <h2 align="center">Visitor Count</h2>
-<a align="center" href="https://proarif.com">
+<p align="center">
   <img align="center" alt="proarif.com" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
-</a>
+</p>
