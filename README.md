@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio website [https://proarif.com](https://proarif.com)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
-- 💻 I'm a undergraduate majoring in Computer Science From SWFU, China
+- 💻 I'm an undergraduate majoring in Computer Science From SWFU, China
 - 🌱 I’m currently learning ReactJs, NodeJs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Web Development with ReactJs and NodeJs, App Development with Flutter
