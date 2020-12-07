@@ -24,33 +24,39 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://proarif.com)
-[<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />](https://proarif.com)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://proarif.com)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://proarif.com)
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://proarif.com)
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />](https://proarif.com)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://proarif.com)
-[<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />](https://proarif.com)
-[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />](https://proarif.com)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
+[<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />](https://www.jetbrains.com/webstorm)
+[<img align="left" alt="AndroidStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/androidstudio.svg" />](https://developer.android.com/studio)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://www.w3.org/html)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com)
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />](https://sass-lang.com)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://www.javascript.com)
+[<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />](https://reactjs.org)
+[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />](https://material-ui.com)
+[<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://semantic-ui.com)
 <!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />](https://proarif.com) -->
 <!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />](https://proarif.com) -->
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://proarif.com)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
 <!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />](https://proarif.com) -->
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />](https://proarif.com)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://proarif.com)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://proarif.com)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://proarif.com)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://proarif.com)
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://proarif.com)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://proarif.com)
+[<img align="left" alt="Flutter" width="50px" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" />](https://flutter.dev)
+[<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://www.mysql.com)
+[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com)
+[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](gitlab.com)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://iterm2.com)
+<br /><br />
+[<img align="left" alt="Bitbucket" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1246" />](https://bitbucket.org)
+[<img align="left" alt="Trello" width="40px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com)
+[<img align="left" alt="jira" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com) 
 
 <br />
 <br />
 
 ---
 
-### Latest Best Repositories
+### Favorite Repositories
 - [Node-Express Jwt-Auth](https://github.com/arifpro/node-express-jwt-auth)
 - [React Alan_AI News Application](https://github.com/arifpro/react-alan_ai-news_application)
 - [React Facebook Clone](https://github.com/arifpro/react-facebook-clone)
