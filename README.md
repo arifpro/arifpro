@@ -6,7 +6,7 @@
 - 💻 I'm a undergraduate majoring in Computer Science From SWFU, China
 - 🌱 I’m currently learning ReactJs, NodeJs
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Web Development with ReactJs and NodeJs
+- 🥅 2020 Goals: Web Development with ReactJs and NodeJs, App Development with Flutter
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 Reach me at **arif.swfu@outlook.com**
 
@@ -49,7 +49,9 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://iterm2.com)
 [<img align="left" alt="Bitbucket" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1246" />](https://bitbucket.org)
 [<img align="left" alt="Trello" width="40px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com)
-[<img align="left" alt="jira" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com) 
+[<img align="left" alt="jira" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com)
+[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />](https://www.postman.com)
+[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/anaconda.svg" />](https://www.anaconda.com)
 
 <br />
 <br />
