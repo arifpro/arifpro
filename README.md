@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
 <h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [https://proarif.com](https://proarif.com)
+- 👨‍💻 My portfolio website [http://devarif.me](http://devarif.me)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
 - 💻 I'm an undergraduate majoring in Computer Science From SWFU, China
 - 🌱 I’m currently learning ReactJs, NodeJs
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Web Development with ReactJs and NodeJs, App Development with Flutter
+- 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native and Flutter
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 Reach me at **arif.swfu@outlook.com**
 
@@ -79,5 +79,5 @@
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="proarif.com" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
 </p>
