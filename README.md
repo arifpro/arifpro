@@ -20,7 +20,6 @@
 [<img align="left" alt="proarif | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@proarif)
 [<img align="left" alt="proarif | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/proarif)
 [<img align="left" alt="proarif | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:arif.swfu@outlook.com)
-
 <br />
 
 ### Languages and Tools:
@@ -73,6 +72,15 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true)](https://github.com/arifpro)
 
+<!-- 
+<details>
+  <summary>GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro&" alt="arifpro" /></p>
+</details>
+</div>
+-->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro&" alt="arifpro" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro)
 
 ---
@@ -81,3 +89,4 @@
 <p align="center">
   <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
 </p>
+
