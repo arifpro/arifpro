@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
-<h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
+<h3 align="center">A curious and passionate MERN stack Developer and Javascript Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [http://devarif.me](http://devarif.me)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
 - 💻 I'm an undergraduate majoring in Computer Science From SWFU, China
-- 🌱 I’m currently learning ReactJs, NodeJs
+- 🌱 I’m currently working with ReactJs, NodeJs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native and Flutter
 - ⚡ Fun fact: I love coding and watch movies
