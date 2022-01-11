@@ -4,9 +4,9 @@
 - 👨‍💻 My portfolio website [http://devarif.me](http://devarif.me)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
 - 💻 I'm an undergraduate majoring in Computer Science From SWFU, China
-- 🌱 I’m currently working with ReactJs, NodeJs
+- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native and Flutter
+- 🥅 2022 Goals: Web3, Data Science and Flutter
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 Reach me at **arif.swfu@outlook.com**
 
