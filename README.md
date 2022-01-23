@@ -7,8 +7,10 @@
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Web3, Data Science and Flutter
-- ⚡ Fun fact: I love coding and watch movies
+- ⚡ Fun fact: I love coding, explore new things and watch movies
 - 📫 Reach me at **arif.swfu@outlook.com**
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
 
 ### Connect with me:
 [<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://devarif.me)
@@ -38,7 +40,7 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />](http://devarif.me)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
 <!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />](http://devarif.me) -->
-[<img align="left" alt="Flutter" width="50px" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" />](https://flutter.dev)
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />](https://flutter.dev)
 [<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://www.mysql.com)
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
 <br /><br />
@@ -54,6 +56,122 @@
 
 <br />
 <br />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+  </a>
+   <a href="https://semantic-ui.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" alt="semanticUI" width="40" height="40" />
+  </a>
+  <a href="https://element.eleme.cn" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/element-ui-1.svg" alt="elementUI" width="40" height="40" />
+  </a>
+  <a href="https://mui.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+ <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
+  </a>
+ <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="40" height="40" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+  </a>
+  
+   <a href="https://graphql.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40" />
+  </a>
+  
+  [<img align="left" alt="GraphQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" />](https://graphql.org)
+
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="40" height="40" />
+  </a>
+<!--   <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40" />
+  </a> -->
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+  </a>
+
+
+  
+  
+  <a href="https://www.w3schools.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+  </a>
+
+
+
+ 
+
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+
+ 
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://heroku.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+  </a>
+ 
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40" />
+  </a>
+</p>
+
 
 ---
 
@@ -84,6 +202,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro)
 
 ---
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/arifpro">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arifpro" />
+  </a>
+</p>
+
+<br />
+<br />
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
