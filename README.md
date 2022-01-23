@@ -98,28 +98,25 @@
  <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="40" height="40" />
   </a>
-  <a href="https://redux.js.org" target="_blank">
+<!--   <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
+  </a> -->
   
-   <a href="https://graphql.org" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40" />
-  </a>
-  
-  [<img align="left" alt="GraphQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" />](https://graphql.org)
+  [<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" align="left" alt="redux" width="40" height="40" />](https://redux.js.org)
+  [<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" align="left" alt="GraphQL" width="40" height="40" />](https://graphql.org)
 
 
   <a href="https://nodejs.org" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="40" height="40" />
   </a>
-<!--   <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40" />
-  </a> -->
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
@@ -216,4 +213,3 @@
 <p align="center">
   <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
 </p>
-
