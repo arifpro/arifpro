@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
 <h3 align="center">A curious and passionate MERN stack Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [http://devarif.me](http://devarif.me)
+- 👨‍💻 My portfolio website [https://devarif.me](https://devarif.me)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
 - 💻 I'm an undergraduate majoring in Computer Science From SWFU, China
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Web3, Data Science and Flutter
+- 🥅 2022 Goals: Web3 and Data Science
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 Reach me at **arif.swfu@outlook.com**
 
