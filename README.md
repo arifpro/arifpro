@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Web3 and Data Science
 - ⚡ Fun fact: I love coding and watch movies
-- 📫 Reach me at **arif.swfu@outlook.com**
+- 📫 Reach me at **devarif.me@gmail.com**
 
 ### Connect with me:
 [<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://devarif.me)
