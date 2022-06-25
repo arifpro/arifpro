@@ -172,7 +172,7 @@
 
 ---
 
-### Favorite Repositories
+<!-- ### Favorite Repositories
 - [Node-Express Jwt-Auth](https://github.com/arifpro/node-express-jwt-auth)
 - [React Alan_AI News Application](https://github.com/arifpro/react-alan_ai-news_application)
 - [React Facebook Clone](https://github.com/arifpro/react-facebook-clone)
@@ -183,20 +183,28 @@
 - [NodeJS The Complete Guide](https://github.com/arifpro/NodeJS-The-Complete-Guide)
 - [Flutter Rider](https://github.com/arifpro/flutter-rider)
 - [Amazon Redesign](https://github.com/arifpro/amazon-redesign)
-- [Getting Started Flutter](https://github.com/arifpro/getting-started-flutter)
+- [Getting Started Flutter](https://github.com/arifpro/getting-started-flutter) -->
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true)](https://github.com/arifpro)
 
-<!-- 
-<details>
+
+<!-- <details>
   <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro&" alt="arifpro" /></p>
-</details>
-</div>
--->
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro&" alt="arifpro" />
+  </p>
+</details> -->
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro" alt="arifpro" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro) -->
+
+<details>
+  <summary>Top Langs</summary>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true" alt="arifpro" />
+  </p>
+</details>
 
 ---
 <h3 align="left">Support:</h3>
