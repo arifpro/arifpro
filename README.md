@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
 <h3 align="center">A curious and passionate MERN stack Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [http://devarif.me](http://devarif.me)
+- 👨‍💻 My portfolio website [https://devarif.me](https://devarif.me)
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
-- 💻 I'm an undergraduate majoring in Computer Science From SWFU, China
+<!-- - 💻 I'm an undergraduate majoring in Computer Science From SWFU, China -->
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Web3, Data Science and Flutter
+- 🥅 2022 Goals: Web3 and Data Science
 - ⚡ Fun fact: I love coding, explore new things and watch movies
-- 📫 Reach me at **arif.swfu@outlook.com**
+- 📫 Reach me at **devarif.me@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
 
 ### Connect with me:
-[<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://devarif.me)
+[<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devarif.me)
 [<img align="left" alt="proarifBD | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/proarifBD)
-[<img align="left" alt="proarif0 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/proarif0)
-[<img align="left" alt="proarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/proarif)
+[<img align="left" alt="devarif.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/devarif.me)
+[<img align="left" alt="proarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/devarif)
 [<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/arifpro)
 [<img align="left" alt="arifpro | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/arifpro)
 [<img align="left" alt="proarif | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@proarif)
@@ -24,7 +24,7 @@
 [<img align="left" alt="proarif | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:arif.swfu@outlook.com)
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 [<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />](https://www.jetbrains.com/webstorm)
 [<img align="left" alt="AndroidStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/androidstudio.svg" />](https://developer.android.com/studio)
@@ -35,12 +35,12 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://www.javascript.com)
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />](https://reactjs.org)
 [<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />](https://material-ui.com)
-[<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://semantic-ui.com)
+[<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://semantic-ui.com) -->
 <!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />](http://devarif.me) -->
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />](http://devarif.me)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
+<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />](http://devarif.me)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org) -->
 <!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />](http://devarif.me) -->
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />](https://flutter.dev)
+<!-- [<img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />](https://flutter.dev)
 [<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://www.mysql.com)
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
 <br /><br />
@@ -52,11 +52,11 @@
 [<img align="left" alt="Trello" width="40px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com)
 [<img align="left" alt="jira" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com)
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />](https://www.postman.com)
-[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/anaconda.svg" />](https://www.anaconda.com)
-
+[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/anaconda.svg" />](https://www.anaconda.com) -->
+<!-- 
 <br />
 <br />
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -90,7 +90,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/thetechdevs/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+   <a href="https://reactnative.dev/" target="_blank">
+<!--     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> -->
+<!--     <img src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png" alt="reactnative" width="40" height="40" /> -->
+     <img src="https://raw.githubusercontent.com/thetechdevs/devicon/master/icons/react-native/react-native-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
  <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
@@ -98,9 +103,7 @@
  <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="40" height="40" />
   </a>
-<!--   <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a> -->
+
   
   [<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" align="left" alt="redux" width="40" height="40" />](https://redux.js.org)
   [<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" align="left" alt="GraphQL" width="40" height="40" />](https://graphql.org)
@@ -132,7 +135,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /> -->
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /> -->
+    <img src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png" alt="django" width="60" height="40" />
   </a>
 
 
@@ -144,9 +149,7 @@
   </a>
 
  
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
+ 
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
@@ -209,7 +212,7 @@
 ---
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/arifpro">
+  <a href="https://www.buymeacoffee.com/devarif">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arifpro" />
   </a>
 </p>
