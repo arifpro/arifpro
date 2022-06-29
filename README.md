@@ -5,7 +5,7 @@
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Web3 and Data Science
+- 🥅 2022 Goals: Web3 and a little bit of Data Science
 - ⚡ Fun fact: I love coding, explore new things and watch movies
 - 📫 Reach me at **devarif.me@gmail.com**
 
