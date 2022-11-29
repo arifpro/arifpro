@@ -105,7 +105,7 @@
 
   
   [<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" align="left" alt="redux" width="40" height="40" />](https://redux.js.org)
-  [<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" align="left" alt="GraphQL" width="40" height="40" />](https://graphql.org)
+<!--   [<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" align="left" alt="GraphQL" width="40" height="40" />](https://graphql.org) -->
 
 
   <a href="https://nodejs.org" target="_blank">
@@ -201,12 +201,12 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro) -->
 
-<details>
+<!-- <details>
   <summary>Top Langs</summary>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true" alt="arifpro" />
   </p>
-</details>
+</details> -->
 
 ---
 <h3 align="left">Support:</h3>
