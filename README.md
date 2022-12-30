@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
 <h3 align="center">A curious and passionate MERN stack Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [https://devarif.me](https://devarif.me)
-- 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif)
-- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Web3, Solidity, Swift, and a little bit of Data Science
-- ⚡ Fun fact: I love coding, explore new things and watch movies
+- 👨‍💻 My portfolio website [https://devarif.me](https://devarif.me).
+- 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif).
+- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2023 Goals: Web3, Solidity, Swift, and a little bit of Data Science.
+- ⚡ Fun fact: I love coding, explore new things and watch movies.
 - 📫 Reach me at **devarif.me@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
