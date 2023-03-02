@@ -5,7 +5,8 @@
 - 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif).
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, Deno, AWS, React Native.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Web3, Solidity, Golang, Dart+Flutter, Swift, and a little bit of Data Science.
+- 🥅 2023 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift.
+<!-- and a little bit of Data Science. -->
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **devarif.me@gmail.com**
 
