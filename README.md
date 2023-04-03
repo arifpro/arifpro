@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023-2024 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift. <!-- and a little bit of Data Science. -->
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
-- 📫 Reach me at **devarif.me@gmail.com**
+- 📫 Reach me at **devarif.me@gmail.com** or **hi@devarif.me**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
 
