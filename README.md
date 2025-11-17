@@ -2,12 +2,12 @@
 <h3 align="center">A curious and passionate MERN stack Developer and Javascript Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [https://devarif.me](https://devarif.me).
-- 📝 I write articles on [https://medium.com/@proarif](https://medium.com/@proarif).
+- 📝 I write articles on <https://devarif.medium.com>.
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, Azure, React Native, NestJs, ExpressJs.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2025-2026 Goals: Web3, Solidity, Golang. <!-- and a little bit of Data Science. -->
+- 🥅 2025-2026 Goals: Web3, Solidity, Golang.
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
-- 📫 Reach me at **devarif.me@gmail.com** or **hi@devarif.me** or **md.arif@river.app**
+- 📫 Reach me at **devarif.me@gmail.com** or **hi@devarif.me** or **arif@fin.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
 <br />
@@ -271,5 +271,6 @@
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
+  <!-- <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" /> -->
+  <img align="center" alt="devarif.me" src="https://komarev.com/ghpvc/?username=arifpro&color=green" />
 </p>
