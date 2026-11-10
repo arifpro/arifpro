@@ -228,7 +228,7 @@
 <!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true)](https://github.com/arifpro) -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro" alt="arifpro" /> -->
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/arifpro)
+[![My github stats](https://github-stats-extended.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/arifpro)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifpro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
@@ -263,7 +263,7 @@
 
 
 
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=arifpro&theme=react-dark&hide_border=true&area=true)](https://github.com/arifpro)
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graphkayan.vercel.app/graph?username=arifpro&theme=react-dark&hide_border=true&area=true)](https://github.com/arifpro)
 
 
 <br />
