@@ -3,11 +3,11 @@
 
 - 👨‍💻 My portfolio website [https://devarif.me](https://devarif.me).
 - 📝 I write articles on <https://devarif.medium.com>.
-- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, Azure, React Native, NestJs, ExpressJs.
+- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, Azure, React Native, NestJs, ExpressJs, Golang, Flutter.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2025-2026 Goals: Web3, Solidity, Golang.
+- 🥅 2027-2028 Goals: Web3, Solidity, AI, System design.
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
-- 📫 Reach me at **devarif.me@gmail.com** or **hi@devarif.me** or **arif@fin.com**
+- 📫 Reach me at **devarif.me@gmail.com** or **hi@devarif.me**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
 <br />
